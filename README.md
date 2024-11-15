@@ -7,6 +7,10 @@
 - 체크포인트 : https://workflowy.com/s/assessment-check-po/T5YrzcMewfo4J6LW
 
 
+1.  EventStorming
+  ![image](https://github.com/user-attachments/assets/2c30329b-c529-4fed-8955-e8ff36186c1f)
+
+
 # Table of contents
 
 - [예제 - 음식배달](#---)
