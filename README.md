@@ -6,8 +6,10 @@
 이는 클라우드 네이티브 애플리케이션의 개발에 요구되는 체크포인트들을 통과하기 위한 예시 답안을 포함합니다.
 - 체크포인트 : https://workflowy.com/s/assessment-check-po/T5YrzcMewfo4J6LW
 
-
-1.  EventStorming
+1. 보고서
+   ![image](https://github.com/user-attachments/assets/81e1a2a5-913e-4363-b086-5b7adc9eea59)
+   
+3.  EventStorming
   ![image](https://github.com/user-attachments/assets/2c30329b-c529-4fed-8955-e8ff36186c1f)
 
 
